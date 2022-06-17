@@ -1,3 +1,3 @@
 # Pyscript
-Criando uma lista de tarefas
+Criando uma lista de tarefas utilizando Pyscript
  
